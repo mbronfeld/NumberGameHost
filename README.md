@@ -1,3 +1,2 @@
 # NumberGameHost
-hosts number game
-a lot
+https://mbronfeld.github.io/NumberGameHost/
